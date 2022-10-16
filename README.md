@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1 align="center">Hey 👋! I'm Tevin.</h1>
+
+<h3 align="center">Welcome to my page!</h3>
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![linkedin](https://img.shields.io/badge/LinkedIn-0096FF?style=for-the-badge&logo=LinkedIn&logoColor=white)]
 
 <!--
 **teazhi/teazhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
