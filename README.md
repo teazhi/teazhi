@@ -45,16 +45,17 @@ class TechnicalSkills extends MoreAboutMe {
 ```
 
 <br/>
-<h3>Github Stats</h3>
-
-[![Tevin Zhuo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=teazhi&show_icons=true&count_private=true)](https://github.com/teazhi)
-<br/>
-
 <h3>Projects WIP<h3/>
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=teazhi&repo=UniOnABudget&show_owner=true)](https://github.com/teazhi/UniOnABudget)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=teazhi&repo=ClinicWebsite&show_owner=true)](https://github.com/teazhi/ClinicWebsite)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=teazhi&repo=PersonalSite&show_owner=true)](https://github.com/teazhi/PersonalSite)
+ 
+<br/>
+ 
+<h3>Github Stats</h3>
+
+[![Tevin Zhuo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=teazhi&show_icons=true&count_private=true)](https://github.com/teazhi)
 
 <br/>
 <hr/>
