@@ -24,7 +24,7 @@ import MoreAboutMe from 'tevinzhuo';
 
 class Bio extends MoreAboutMe {
   name = 'Tevin Zhuo';
-  location = 'Great Neck, NY';
+  location = 'Queens, NY';
   major = 'Business Analytics';
   
   currentProject = 'University On A Budget';
