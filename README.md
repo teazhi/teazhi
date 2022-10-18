@@ -54,6 +54,7 @@ class TechnicalSkills extends MoreAboutMe {
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=teazhi&repo=UniOnABudget&show_owner=true)](https://github.com/teazhi/UniOnABudget)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=teazhi&repo=ClinicWebsite&show_owner=true)](https://github.com/teazhi/ClinicWebsite)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=teazhi&repo=PersonalSite&show_owner=true)](https://github.com/teazhi/PersonalSite)
 
 <br/>
 <hr/>
