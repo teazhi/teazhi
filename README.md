@@ -69,5 +69,5 @@ class TechnicalSkills extends MoreAboutMe {
 <img alt="Profile Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=teazhi.teazhi">
 </p>
 
-<br/><br/>
-
+<br/>
+<hr/>
