@@ -71,4 +71,3 @@ class TechnicalSkills extends MoreAboutMe {
 
 <br/><br/>
 
-
