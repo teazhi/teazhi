@@ -27,7 +27,7 @@ class Bio extends MoreAboutMe {
   location = 'Queens, NY';
   major = 'Business Analytics';
   
-  currentProject = 'University On A Budget';
+  currentProject = 'VirtualVNDR';
 }
 
 class TechnicalSkills extends MoreAboutMe {
