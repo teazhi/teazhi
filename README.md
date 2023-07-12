@@ -35,6 +35,7 @@ class TechnicalSkills extends MoreAboutMe {
     'Python',
     'JavaScript',
     'R',
+    'AWS',
     'MongoDB',
     'C++',
     'HTML',
@@ -43,7 +44,7 @@ class TechnicalSkills extends MoreAboutMe {
   frameworks = [
     'ReactJS',
     'TailwindCSS',
-    'TailwindCSS',
+    '',
   ];
 }
 
