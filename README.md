@@ -10,7 +10,7 @@
 <br/>
 <div>
  <p>
-  Currently a second-year undergraduate at Rensselaer Polytechnic Institute studying Business Analytics with a great interest in investment analytics; however, I also have a passion for coding and developing.
+  Currently a second-year undergraduate at Rensselaer Polytechnic Institute studying Business Analytics with a great interest in data science and investment analytics.
  </p>
 </div>
 
