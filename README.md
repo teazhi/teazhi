@@ -27,18 +27,23 @@ class Bio extends MoreAboutMe {
   location = 'Queens, NY';
   major = 'Business Analytics';
   
-  currentProject = 'VirtualVNDR';
+  currentProject = 'smDash';
 }
 
 class TechnicalSkills extends MoreAboutMe {
   languages = [
     'Python',
+    'JavaScript',
+    'R',
+    'MongoDB',
     'C++',
     'HTML',
     'CSS'
   ];
   frameworks = [
-    'ReactJS'
+    'ReactJS',
+    'TailwindCSS',
+    'TailwindCSS',
   ];
 }
 
