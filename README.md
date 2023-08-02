@@ -73,7 +73,7 @@ class TechnicalSkills(MoreAboutMe):
 <p align="center">
 <a href="https://www.google.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-WIP-blue?style=flat&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/tevinzhuo/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@tevinzhuo-blue?style=flat&logo=linkedin"></a>
-<a href="mailto:zhuot03@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-zhuot03@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="mailto:zhuot@rpi.edu"><img alt="Email" src="https://img.shields.io/badge/Email-zhuot@rpi.edu-blue?style=flat&logo=outlook"></a>
 <br/><br/>
 <img alt="Profile Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=teazhi.teazhi">
 </p>
