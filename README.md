@@ -19,7 +19,7 @@
 
 <h3>👨🏻‍💻 Here's a little more about me...</h3>
 
-```python3
+```python
 from tevinzhuo import MoreAboutMe
 
 class Bio(MoreAboutMe):
