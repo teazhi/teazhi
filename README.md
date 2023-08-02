@@ -19,34 +19,34 @@
 
 <h3>👨🏻‍💻 Here's a little more about me...</h3>
 
-```javascript
-import MoreAboutMe from 'tevinzhuo';
+```python3
+from tevinzhuo import MoreAboutMe
 
-class Bio extends MoreAboutMe {
-  name = 'Tevin Zhuo';
-  location = 'Queens, NY';
-  major = 'Business Analytics';
-  
-  currentProject = 'smDash';
-}
+class Bio(MoreAboutMe):
+  def __init__(self):
+    self.name = 'Tevin Zhuo'
+    self.location = 'Queens, NY'
+    self.major = 'Business Analytics'
+    self.currentProject = 'smDash'
 
-class TechnicalSkills extends MoreAboutMe {
-  languages = [
-    'Python',
-    'JavaScript',
-    'R',
-    'AWS',
-    'MongoDB',
-    'C++',
-    'HTML',
-    'CSS'
-  ];
-  frameworks = [
-    'ReactJS',
-    'TailwindCSS',
-    '',
-  ];
-}
+class TechnicalSkills(MoreAboutMe):
+  def __init__(self):
+    self.languages = [
+      'Python',
+      'JavaScript',
+      'R',
+      'AWS',
+      'MongoDB',
+      'C++',
+      'HTML',
+      'CSS'
+    ]
+    self.frameworks = [
+      'ReactJS',
+      'TailwindCSS',
+      ''
+    ]
+
 
 ```
 
