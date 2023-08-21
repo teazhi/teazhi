@@ -5,12 +5,12 @@
 
 <h3>Welcome to my page!</h3>
 
-> Studying Business Analytics @ [Rensselaer Polytechnic Institute](https://www.linkedin.com/in/tevin-zhuo-b61711207/)
+> Studying Business Analytics @ [Rensselaer Polytechnic Institute](https://www.linkedin.com/in/tevin-zhuo-b61711207/) | Minor in Data Science & Engineering
 
 <br/>
 <div>
  <p>
-  Currently a second-year undergraduate at Rensselaer Polytechnic Institute studying Business Analytics with a minor in data science.
+  Currently a second-year undergraduate at Rensselaer Polytechnic Institute studying Business Analytics with a minor in data science and engineering.
  </p>
 </div>
 
