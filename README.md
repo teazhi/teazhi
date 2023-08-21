@@ -27,7 +27,7 @@ class Bio(MoreAboutMe):
     self.name = 'Tevin Zhuo'
     self.location = 'Queens, NY'
     self.major = 'Business Analytics'
-    self.currentProject = 'smDash'
+    self.currentProject = 'SocialNTW'
 
 class TechnicalSkills(MoreAboutMe):
   def __init__(self):
@@ -56,7 +56,7 @@ class TechnicalSkills(MoreAboutMe):
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=teazhi&repo=SocialNTW&show_owner=true)](https://github.com/teazhi/SocialNTW)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=teazhi&repo=VirtualVNDR&show_owner=true)](https://github.com/teazhi/VirtualVNDR)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=teazhi&repo=UniOnABudget&show_owner=true)](https://github.com/teazhi/UniOnABudget)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=teazhi&repo=Invoice-Parser&show_owner=true)](https://github.com/teazhi/Invoice-Parser)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=teazhi&repo=ClinicWebsite&show_owner=true)](https://github.com/teazhi/ClinicWebsite)
 
  
