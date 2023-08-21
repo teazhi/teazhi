@@ -56,7 +56,7 @@ class TechnicalSkills(MoreAboutMe):
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=teazhi&repo=SocialNTW&show_owner=true)](https://github.com/teazhi/SocialNTW)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=teazhi&repo=VirtualVNDR&show_owner=true)](https://github.com/teazhi/VirtualVNDR)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=teazhi&repo=Invoice-Parser&show_owner=true)](https://github.com/teazhi/Invoice-Parser)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=teazhi&repo=InvoiceParser&show_owner=true)](https://github.com/teazhi/Invoice-Parser)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=teazhi&repo=ClinicWebsite&show_owner=true)](https://github.com/teazhi/ClinicWebsite)
 
  
