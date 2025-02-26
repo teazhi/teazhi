@@ -44,12 +44,6 @@ class Bio(MoreAboutMe):
 
  
 <br/>
- 
-<h3>Github Stats</h3>
-
-[![Tevin Zhuo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=teazhi&show_icons=true&count_private=true)](https://github.com/teazhi)
-
-<br/>
 <hr/>
   
 <h3>Connect With Me:</h3>
