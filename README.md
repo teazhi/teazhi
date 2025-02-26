@@ -27,7 +27,7 @@ class Bio(MoreAboutMe):
     self.name = 'Tevin Zhuo'
     self.location = 'Queens, NY'
     self.major = 'Business Analytics'
-    self.currentProject = 'SocialNTW'
+    self.currentProject = 'Amazon-Tools'
 
 
 
