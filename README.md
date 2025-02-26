@@ -29,32 +29,15 @@ class Bio(MoreAboutMe):
     self.major = 'Business Analytics'
     self.currentProject = 'SocialNTW'
 
-class TechnicalSkills(MoreAboutMe):
-  def __init__(self):
-    self.languages = [
-      'Python',
-      'JavaScript',
-      'R',
-      'AWS',
-      'MongoDB',
-      'C++',
-      'HTML',
-      'CSS'
-    ]
-    self.frameworks = [
-      'ReactJS',
-      'TailwindCSS',
-      ''
-    ]
 
 
 ```
 
 <br/>
-<h3>Projects WIP<h3/>
+<h3>Projects<h3/>
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=teazhi&repo=SocialNTW&show_owner=true)](https://github.com/teazhi/SocialNTW)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=teazhi&repo=Ecommerce-Tools&show_owner=true)](https://github.com/teazhi/Ecommerce-Tools)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=teazhi&repo=VirtualVNDR&show_owner=true)](https://github.com/teazhi/VirtualVNDR)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=teazhi&repo=InvoiceParser&show_owner=true)](https://github.com/teazhi/InvoiceParser)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=teazhi&repo=ClinicWebsite&show_owner=true)](https://github.com/teazhi/ClinicWebsite)
